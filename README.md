@@ -8,7 +8,7 @@ Repositório da disciplina **Desenvolvimento Desktop**, do curso de **Análise e
 
 A disciplina tem como objetivo desenvolver o raciocínio lógico e a base da programação estruturada, utilizando a **linguagem C** como ferramenta principal de aprendizado.
 
-Durante o semestre, foram abordados conceitos fundamentais para a construção de algoritmos eficientes e organizados, preparando o aluno para disciplinas mais avançadas no curso.
+Durante o semestre, serão abordados conceitos fundamentais para a construção de algoritmos eficientes e organizados, preparando o aluno para disciplinas mais avançadas no curso.
 
 ---
 
