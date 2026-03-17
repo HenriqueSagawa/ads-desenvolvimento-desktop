@@ -23,4 +23,6 @@ int main() {
     }
 
     printf("Voce digitou %d numeros positivos", countEvenNums);
+
+    return 0;
 }
