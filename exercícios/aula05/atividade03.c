@@ -9,7 +9,7 @@ int main()
 
     do
     {
-        printf("\n---- Eleicoes 2026/nEscolha um candidato ---- \n1 - Candidato A \n2 - Candidato B \n3 - Candidato C\n");
+        printf("\n---- Eleicoes 2026 ---- \nEscolha um candidato: \n1 - Candidato A \n2 - Candidato B \n3 - Candidato C\n");
         scanf("%d", &response);
 
         if (response == 1)
